@@ -1,0 +1,12 @@
+
+    @font-face {
+        font-family: 'Glance Slab Test Regular';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Glance Slab Test Regular'), url('./GlanceSlabTest-Regular.woff') format('woff');
+        }
+    h1{
+        font-family: 'Glance Slab Test Regular';
+        font-weight: 200;
+        color:#0ccac4;
+    }    
